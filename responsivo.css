@@ -21,6 +21,7 @@ nav{
     justify-content: center;
     align-items: center;
     gap: 10px;
+    width: 100vw;
 }
 button{
     margin: 20px;
@@ -107,3 +108,4 @@ footer{
     }
 
 }
+
