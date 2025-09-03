@@ -51,6 +51,9 @@ section{
     padding: 70px;
     margin: 10px;
 }
+p{
+    text-align: left;
+    margin: 10px;}
 img{
     width: 40%;
     height: 50%;
@@ -102,4 +105,5 @@ footer{
     footer{
         padding: 20% 40%;
     }
+
 }
